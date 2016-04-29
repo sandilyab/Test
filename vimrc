@@ -19,7 +19,7 @@ set showmatch
 set incsearch           " search as characters are entered
 set hlsearch            " highlight matches
 
-inoremap { {<CR> <BS>}<Esc>ko
+inoremap { {<CR>}<Esc>ko
 inoremap ( ( <BS>)<Esc>i
 inoremap [ [ <BS>]<Esc>i
 inoremap " " "<Esc>i

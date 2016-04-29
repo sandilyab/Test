@@ -1,2 +1,6 @@
 this is a yolo momment
 This line shall be edited
+
+git config credential.helper store
+
+push once 
